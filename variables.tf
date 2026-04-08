@@ -13,7 +13,7 @@ provider "aws" {
 variable "instance-type" {
   type        = string
   description = "instance type"
-  default     = "t2.micro"
+  default     = "t2.small"
 }
 variable "auto-ip" {
   type        = bool
