@@ -1,0 +1,8 @@
+String Functions:
+
+upper("hareesh")
+lower("HAREESH")
+trim("string", "character")
+replace("Hello world", " ", "-" )
+length(1,3,545,5,5)
+concat([1,2],[4,6])
